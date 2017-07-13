@@ -1,0 +1,28 @@
+﻿■Raspberry-Pi install nodejs
+old
+https://github.com/audstanley/NodeJs-Raspberry-Pi
+
+new:
+https://www.google.co.jp/search?q=Node.js+on+RPi&oq=Node.js+on+RPi&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8
+
+Node.js on RPi
+
+
+http://weworkweplay.com/play/raspberry-pi-nodejs/
+
+https://www.raspberrypi.org/forums/viewtopic.php?f=91&t=141770
+
+
+https://www.raspberrypi.org/forums/viewtopic.php?p=1106738#p1106738
+
+
+
+■勉強ホームページ
+http://www.ctolib.com/Topthinking-wxPython.html
+
+
+■Python漫游指南
+http://python-guide.jetz.io/zh_CN/latest/#python
+http://www.ctolib.com/docs/sfile/pyguide/index.html
+
+
